@@ -41,44 +41,12 @@ A modern, responsive portfolio website for software engineers with smooth animat
 - **Font Awesome** - Icons
 - **Google Fonts** - Typography (Inter)
 
-## Customization
-
-### Personal Information
-Update the following in `index.html`:
-- Your name in the hero section
-- Profile image URL
-- Contact information
-- Social media links
-- Project details
-- Certification information
-- Skills and experience
-
-### Colors
-Modify the CSS variables in `styles.css`:
-```css
-:root {
-    --primary-color: #4F46E5;
-    --secondary-color: #8B5CF6;
-    --accent-color: #EC4899;
-    /* ... other colors */
-}
-```
 
 ### Animations
 Adjust animation speeds and effects in the CSS:
 - `fadeInLeft`, `fadeInRight`, `fadeInUp` animations
 - `float` animation for elements
 - `bounce` animation for scroll indicator
-
-## File Structure
-
-```
-portfolio/
-├── index.html          # Main HTML structure
-├── styles.css          # All styles and animations
-├── script.js           # Interactive JavaScript
-└── README.md          # This file
-```
 
 ## Getting Started
 
@@ -102,10 +70,6 @@ portfolio/
 - Efficient DOM manipulation
 - Minimal external dependencies
 
-## Easter Egg
-
-Try the Konami Code on your keyboard:
-↑ ↑ ↓ ↓ ← → ← → B A
 
 ## License
 
@@ -113,4 +77,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Created with ❤️ for software engineers**
+**Created with ❤️ **
